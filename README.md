@@ -64,9 +64,6 @@ The IPL 2024 Dashboard provides an interactive and comprehensive view of the IPL
 - Complete list of players in each team.
 - Team-wise player details and their performances.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Thanks to [LiveMint.com](https://www.livemint.com) for match details and scores.
 - Thanks to [Wikipedia](https://www.wikipedia.org) for historical data and team information.
