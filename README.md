@@ -1,9 +1,5 @@
 # IPL-2024-Dashboard
 
-# IPL 2024 Dashboard
-
-![IPL Logo]([https://example.com/path-to-your-ipl-logo.png](https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png))
-
 ## Overview
 
 This project aims to create an interactive dashboard for the IPL 2024 season using web scraping, Pandas, and Power BI. The data for this project is sourced from various websites, including LiveMint.com, Wikipedia, and IPLT20.com.
