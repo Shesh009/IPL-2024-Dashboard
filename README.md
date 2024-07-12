@@ -1,4 +1,6 @@
-# IPL-2024-Dashboard
+# IPL 2024 Dashboard
+
+![IPL Logo](https://example.com/path-to-your-ipl-logo.png)
 
 ## Overview
 
@@ -9,9 +11,13 @@ This project aims to create an interactive dashboard for the IPL 2024 season usi
 - [Project Description](#project-description)
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Dashboard Features](#dashboard-features)
+  - [Matches](#matches)
+  - [Points Table](#points-table)
+  - [Orange Cap List](#orange-cap-list)
+  - [Purple Cap List](#purple-cap-list)
+  - [Player Stats](#player-stats)
+  - [Team Squads](#team-squads)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Description
@@ -31,9 +37,38 @@ The IPL 2024 Dashboard provides an interactive and comprehensive view of the IPL
 - **Data Visualization**: Power BI
 - **Python Libraries**: requests, BeautifulSoup4
 
-## Installation
+## Dashboard Features
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Shesh009/IPL-2024-dashboard.git
-   cd IPL-2024-dashboard
+### Matches
+- Overview of all the matches played in IPL 2024.
+- Match details including scores, wickets, and overs.
+- Visual representation of match outcomes.
+
+### Points Table
+- Live points table showcasing team standings.
+- Win, loss, and points information for each team.
+
+### Orange Cap List
+- Top run-scorers of the tournament.
+- Player details including runs scored, matches played, and strike rates.
+
+### Purple Cap List
+- Leading wicket-takers of the tournament.
+- Player details including wickets taken, matches played, and economy rates.
+
+### Player Stats
+- Detailed statistics for each player.
+- Batting and bowling performance analysis.
+
+### Team Squads
+- Complete list of players in each team.
+- Team-wise player details and their performances.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Thanks to [LiveMint.com](https://www.livemint.com) for match details and scores.
+- Thanks to [Wikipedia](https://www.wikipedia.org) for historical data and team information.
+- Thanks to [IPLT20.com](https://www.iplt20.com) for player and team images.
+- Special thanks to the developers of [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) and [Pandas](https://pandas.pydata.org) for their awesome libraries.
