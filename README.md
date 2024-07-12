@@ -54,7 +54,7 @@ The IPL 2024 Dashboard provides an interactive and comprehensive view of the IPL
 ### Points Table
 - Live points table showcasing team standings.
 - Win, loss, and points information for each team.
-- ![Screenshot 2024-07-12 223849](https://github.com/user-attachments/assets/ccb06ebd-e077-4311-ae3b-131f26f15e21)
+- ![Screenshot 2024-07-12 225546](https://github.com/user-attachments/assets/49612e8c-7525-411b-a5f2-3e8485b2e0e9)
 
 ### Season Stats
 - Shows the stats in the whole season.
