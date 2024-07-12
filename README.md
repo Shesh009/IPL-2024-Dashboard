@@ -12,6 +12,7 @@ Power BI report : https://app.powerbi.com/groups/me/reports/bbd9c4dd-15dc-4273-8
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Dashboard Features](#dashboard-features)
+  - [Home Page](#home-page)
   - [Matches](#matches)
   - [Points Table](#points-table)
   - [Season Stats](#season-stats)
@@ -40,14 +41,15 @@ The IPL 2024 Dashboard provides an interactive and comprehensive view of the IPL
 
 ## Dashboard Features
 
-![Screenshot 2024-07-12 223734](https://github.com/user-attachments/assets/fd4ebf41-6008-4fba-8038-97fc07679c78)
+### Home Page
+- Shows different stats in season 2024 and links to various pages.
+- ![Screenshot 2024-07-12 223734](https://github.com/user-attachments/assets/fd4ebf41-6008-4fba-8038-97fc07679c78)
 
 ### Matches
 - Overview of all the matches played in IPL 2024.
 - Match details including scores, wickets, and overs.
 - Visual representation of match outcomes.
-
-![Screenshot 2024-07-12 223829](https://github.com/user-attachments/assets/1541a6cd-dfac-43a6-9657-2d043c3fd9db)
+- ![Screenshot 2024-07-12 223829](https://github.com/user-attachments/assets/1541a6cd-dfac-43a6-9657-2d043c3fd9db)
 
 ### Points Table
 - Live points table showcasing team standings.
