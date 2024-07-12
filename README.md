@@ -2,7 +2,7 @@
 
 # IPL 2024 Dashboard
 
-![IPL Logo](https://example.com/path-to-your-ipl-logo.png)
+![IPL Logo]([https://example.com/path-to-your-ipl-logo.png](https://upload.wikimedia.org/wikipedia/en/1/19/TATA_IPL_2024_Logo.png))
 
 ## Overview
 
