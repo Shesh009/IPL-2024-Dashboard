@@ -1,7 +1,5 @@
 # IPL 2024 Dashboard
 
-![IPL Logo](https://example.com/path-to-your-ipl-logo.png)
-
 ## Overview
 
 This project aims to create an interactive dashboard for the IPL 2024 season using web scraping, Pandas, and Power BI. The data for this project is sourced from various websites, including LiveMint.com, Wikipedia, and IPLT20.com.
