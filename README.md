@@ -4,7 +4,7 @@
 
 This project aims to create an interactive dashboard for the IPL 2024 season using web scraping, Pandas, and Power BI. The data for this project is sourced from various websites, including LiveMint.com, Wikipedia, and IPLT20.com.
 
-### Power BI report : https://app.powerbi.com/groups/me/reports/bbd9c4dd-15dc-4273-87ed-85d1319cb85e/7eba21f6410d06056181?experience=power-bi
+Power BI report : https://app.powerbi.com/groups/me/reports/bbd9c4dd-15dc-4273-87ed-85d1319cb85e/7eba21f6410d06056181?experience=power-bi
 
 ## Table of Contents
 
